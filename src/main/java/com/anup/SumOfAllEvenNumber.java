@@ -7,6 +7,7 @@ public class SumOfAllEvenNumber {
             if(i%2==0){
                 sum+=i;
             }
+// add
         }
         System.out.println("The sum of all even numbers between 1 to 100 is  " +sum);
     }
