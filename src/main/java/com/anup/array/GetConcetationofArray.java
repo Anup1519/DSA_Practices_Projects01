@@ -1,4 +1,4 @@
-package com.anup;
+package com.anup.array;
 
 import java.util.Arrays;
 

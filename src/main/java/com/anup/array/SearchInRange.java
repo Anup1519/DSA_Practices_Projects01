@@ -1,4 +1,4 @@
-package com.anup;
+package com.anup.array;
 
 public class SearchInRange {
     public static void main(String[] arrs) {

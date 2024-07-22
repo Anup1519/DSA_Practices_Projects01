@@ -1,4 +1,4 @@
-package com.anup;
+package com.anup.array;
 
 public class SearchElement {
     public static void main(String[] args) {
