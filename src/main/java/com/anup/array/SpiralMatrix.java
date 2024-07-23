@@ -7,9 +7,10 @@ public class SpiralMatrix {
     public static void main(String[] args) {
 
         int[][] matrix = {
-                {1, 2, 3},                       //In this array first print(output) 1->2->3->6->9->8->7->4->5
-                {4, 5, 6},
-                {7, 8, 9}
+                {1, 2, 3, 4},                       //In this array first print(output) 1->2->3->6->9->8->7->4->5
+                {5, 6, 7, 8},
+                {9, 10, 11, 12},
+                {13, 14, 15, 16}
         };
         List<Integer> ans = spiralOrder(matrix);
         System.out.println(ans);
@@ -20,8 +21,8 @@ public class SpiralMatrix {
 
         int m = matrix.length;
         int n = matrix[0].length;
-        int left = 0, right = m - 1;
-        int top = 0, bottom = n - 1;
+        int left = 0, right = n - 1;
+        int top = 0, bottom = m - 1;
         List<Integer> ans = new ArrayList<>();
 
         /*1st loop: This will print the elements from left to right.
