@@ -1,4 +1,4 @@
-package com.anup;
+package com.anup.string;
 
 public class SearchInString {
     public static void main(String[] args) {

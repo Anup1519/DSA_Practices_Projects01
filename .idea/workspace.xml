@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8345bb9-f0b8-4acc-84ad-4139b8e27a5b" name="Changes" comment="Array question">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/anup/SearchInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/anup/string/SearchInString.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2b5dG1s5P62iSQ7BhMmH1ker1OP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Anup kumar/java_improvement&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.31494254&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.countLetter">
+    <configuration name="FirstAndLastPositionInSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.anup.binarySearch.FirstAndLastPositionInSortedArray" />
+      <module name="practice-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.anup.binarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FloorBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.anup.binarySearch.FloorBinarySearch" />
+      <module name="practice-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.anup.binarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallestLetterGreaterThanTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.anup.binarySearch.SmallestLetterGreaterThanTarget" />
+      <module name="practice-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.anup.binarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransposeMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.anup.array.TransposeMatrix" />
+      <module name="practice-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.anup.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="countLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.anup.string.countLetter" />
+      <module name="practice-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.anup.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.countLetter" />
+        <item itemvalue="Application.FirstAndLastPositionInSortedArray" />
+        <item itemvalue="Application.SmallestLetterGreaterThanTarget" />
+        <item itemvalue="Application.TransposeMatrix" />
+        <item itemvalue="Application.FloorBinarySearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8345bb9-f0b8-4acc-84ad-4139b8e27a5b" name="Changes" comment="" />
+      <created>1705508777481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705508777481</updated>
+    </task>
+    <task id="LOCAL-00001" summary="sum of all even number">
+      <option name="closed" value="true" />
+      <created>1705563132486</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705563132486</updated>
+    </task>
+    <task id="LOCAL-00002" summary="sum of all even number">
+      <option name="closed" value="true" />
+      <created>1705568236497</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705568236497</updated>
+    </task>
+    <task id="LOCAL-00003" summary="sum of all even number">
+      <option name="closed" value="true" />
+      <created>1705568584682</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705568584682</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Find max and min element of array">
+      <option name="closed" value="true" />
+      <created>1719225937679</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719225937679</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Single element of array">
+      <option name="closed" value="true" />
+      <created>1719339623274</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719339623274</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Single element of array">
+      <option name="closed" value="true" />
+      <created>1719339808442</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719339808442</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Sum of two element of array and swap two number">
+      <option name="closed" value="true" />
+      <created>1720546016170</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720546016170</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Linear search element">
+      <option name="closed" value="true" />
+      <created>1720633080172</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1720633080172</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Search element in 2D Array">
+      <option name="closed" value="true" />
+      <created>1721148098268</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1721148098269</updated>
+    </task>
+    <task id="LOCAL-00010" summary="sum of 1D and array from permutation and concetation of array">
+      <option name="closed" value="true" />
+      <created>1721371157778</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721371157778</updated>
+    </task>
+    <task id="LOCAL-00011" summary="max wealth of 2D array">
+      <option name="closed" value="true" />
+      <created>1721571933226</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1721571933226</updated>
+    </task>
+    <task id="LOCAL-00012" summary="move array question in one package">
+      <option name="closed" value="true" />
+      <created>1721644798879</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1721644798879</updated>
+    </task>
+    <task id="LOCAL-00013" summary="spiral matrix of array">
+      <option name="closed" value="true" />
+      <created>1721730697260</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1721730697260</updated>
+    </task>
+    <task id="LOCAL-00014" summary="minor change in spiral matrix of array">
+      <option name="closed" value="true" />
+      <created>1721734482577</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1721734482577</updated>
+    </task>
+    <task id="LOCAL-00015" summary="insert data into spiral matrix of array">
+      <option name="closed" value="true" />
+      <created>1721840649904</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1721840649904</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Array question">
+      <option name="closed" value="true" />
+      <created>1721887447492</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1721887447492</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Array question">
+      <option name="closed" value="true" />
+      <created>1721887749286</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1721887749286</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sum of all even number" />
+    <MESSAGE value="Find max and min element of array" />
+    <MESSAGE value="Single element of array" />
+    <MESSAGE value="Sum of two element of array and swap two number" />
+    <MESSAGE value="Linear search element" />
+    <MESSAGE value="Search element in 2D Array" />
+    <MESSAGE value="sum of 1D and array from permutation and concetation of array" />
+    <MESSAGE value="max wealth of 2D array" />
+    <MESSAGE value="move array question in one package" />
+    <MESSAGE value="spiral matrix of array" />
+    <MESSAGE value="minor change in spiral matrix of array" />
+    <MESSAGE value="insert data into spiral matrix of array" />
+    <MESSAGE value="Array question" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array question" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/anup/array/ArrayFromPermutation.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/anup/array/MaxWealthOf2DArray.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/anup/array/SpiralMatrix.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/anup/array/SpiralMatrix.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/anup/array/SpiralMatrix.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/anup/array/TransposeMatrix.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/anup/binarySearch/SmallestLetterGreaterThanTarget.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/anup/binarySearch/SmallestLetterGreaterThanTarget.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/anup/binarySearch/SmallestLetterGreaterThanTarget.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/anup/string/countLetter.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/anup/string/countLetter.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
